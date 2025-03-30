@@ -1,0 +1,7 @@
+{
+    "AI Engineer": ["python", "machine learning", "deep learning", "nlp", "computer vision"],
+    "Data Scientist": ["statistics", "pandas", "data visualization", "python", "tensorflow"],
+    "Software Developer": ["java", "spring boot", "react", "javascript", "git"],
+    "Cloud Engineer": ["aws", "docker", "kubernetes", "linux", "terraform"]
+  }
+  
